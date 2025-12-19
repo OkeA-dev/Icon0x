@@ -66,7 +66,7 @@ Always open to new opportunities — audits, collaborations, or research.
 
 ---
 
-### <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/dc42c12b-7139-4373-b1b6-7f6735c2d7cf" /> Cantina
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/dc42c12b-7139-4373-b1b6-7f6735c2d7cf" /> Cantina
 
 | Contest | High | Medium | Report | Rank |
 |-------|------|--------|--------|------|
