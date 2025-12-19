@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I’m **Icon0x** — an independent **Blockchain Security Researcher** focused on **smart contract auditing**.
+Hey👋, I’m **Icon0x** — an independent **Blockchain Security Researcher** focused on **smart contract auditing**.
 
 I actively compete in top-tier audit contests such as **Immunefi**, **Sherlock**, **Code4rena** and **Cantina**, where I’ve earned recognition for identifying **critical vulnerabilities** across a wide range of protocols.
 
